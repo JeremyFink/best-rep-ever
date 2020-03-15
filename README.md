@@ -1,2 +1,2 @@
-# best-rep-ever
+# best-repo-ever
 Salesforce learning repository
